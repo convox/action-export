@@ -1,4 +1,4 @@
-# Convox Exec Action
+# Convox Export Action
 This Action runs the [export Command](https://docs.convox.com/reference/cli/resources#resources-export) in a specific resource and creates a file with the output. The file created can be read and managed by any post action.
 
 ## Inputs
