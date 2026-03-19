@@ -1,6 +1,9 @@
 name: Convox Export
 description: Run a command
 author: Convox
+branding:
+  icon: download
+  color: blue
 inputs:
   rack:
     description: Convox Rack name
